@@ -19,4 +19,7 @@ Make ETL Process for Telecom Company using SQL Server Integration Services (SSIS
   
 
 ## Control Flow
-![Control Flow]
+![Control Flow](https://github.com/Mohamedmahmoud872/SSIS-ETL--Telecom-Company-Case-Study/blob/main/Snapshots/control%20flow.PNG)
+
+## Data Flow
+![Data Flow](https://github.com/Mohamedmahmoud872/SSIS-ETL--Telecom-Company-Case-Study/blob/main/Snapshots/data%20flow.PNG)
