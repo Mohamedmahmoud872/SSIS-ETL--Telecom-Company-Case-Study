@@ -18,4 +18,5 @@ Make ETL Process for Telecom Company using SQL Server Integration Services (SSIS
 - Auditing
   
 
-## Data Flow
+## Control Flow
+![Control Flow]
